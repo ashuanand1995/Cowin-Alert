@@ -1,0 +1,62 @@
+{"centers": [
+      {
+      "center_id": 584471,
+      "name": "RML Site 3",
+      "address": "BKS MargCPNew Delhi",
+      "state_name": "Delhi",
+      "district_name": "New Delhi",
+      "block_name": "Central Delhi",
+      "pincode": 110001,
+      "lat": 28,
+      "long": 77,
+      "from": "09:30:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [      {
+         "session_id": "3803f1d5-3aa2-4505-9681-63f6c430e604",
+         "date": "22-07-2021",
+         "available_capacity": 70,
+         "min_age_limit": 18,
+         "allow_all_age": true,
+         "vaccine": "COVAXIN",
+         "slots":          [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-03:00PM"
+         ],
+         "available_capacity_dose1": 10,
+         "available_capacity_dose2": 60
+      }]
+   },
+      {
+      "center_id": 580925,
+      "name": "RML Site 2",
+      "address": "BKS MargCPNew Delhi",
+      "state_name": "Delhi",
+      "district_name": "New Delhi",
+      "block_name": "Central Delhi",
+      "pincode": 110001,
+      "lat": 28,
+      "long": 77,
+      "from": "09:30:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [      {
+         "session_id": "b81ab449-d520-40fb-acd2-378a4a007c38",
+         "date": "22-07-2021",
+         "available_capacity": 63,
+         "min_age_limit": 18,
+         "allow_all_age": true,
+         "vaccine": "COVAXIN",
+         "slots":          [
+            "09:30AM-10:30AM",
+            "10:30AM-11:30AM",
+            "11:30AM-12:30PM",
+            "12:30PM-03:00PM"
+         ],
+         "available_capacity_dose1": 3,
+         "available_capacity_dose2": 60
+      }]
+   }
+]}
